@@ -7,8 +7,8 @@ import { Suspense } from "react"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "Online Test Platform - Digital Marketing Assessment",
-  description: "Professional online test platform for Digital Marketing knowledge assessment",
+  title: "Online Test Platform - Web Designing Assessment",
+  description: "Professional online test platform for Web Designing knowledge assessment",
   generator: "v0.app",
 }
 

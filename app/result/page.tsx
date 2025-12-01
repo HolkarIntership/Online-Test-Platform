@@ -127,7 +127,7 @@ export default function ResultPage({ user }) {
           <div className="flex items-center justify-between">
             <div className="space-y-1">
               <h1 className="text-2xl font-bold">Test Results</h1>
-              <p className="text-muted-foreground">Digital Marketing Assessment - {user.name}</p>
+              <p className="text-muted-foreground">Web Designing Assessment - {user.name}</p>
             </div>
 
             <div className="flex items-center gap-3">
@@ -347,7 +347,7 @@ export default function ResultPage({ user }) {
             <CardContent className="pt-6">
               <div className="text-center space-y-4">
                 <p className="text-muted-foreground">
-                  Thank you for completing the Digital Marketing Assessment. Your results have been recorded.
+                  Thank you for completing the Web Designing Assessment. Your results have been recorded.
                 </p>
 
                 <div className="flex justify-center gap-3">

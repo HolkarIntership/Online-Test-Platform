@@ -294,7 +294,7 @@ export default function TestPage({ user, onTestComplete }) {
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-4">
-              <h1 className="text-xl font-semibold">Digital Marketing Assessment</h1>
+              <h1 className="text-xl font-semibold">Web Designing Assessment</h1>
               <Badge variant="outline">{user?.name || "User"}</Badge>
             </div>
 

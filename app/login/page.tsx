@@ -53,7 +53,7 @@ export default function LoginPage({ onLoginSuccess }) {
             </div>
           </div>
           <h1 className="text-3xl font-bold text-foreground">Online Test Platform</h1>
-          <p className="text-muted-foreground">Professional Digital Marketing Assessment</p>
+          <p className="text-muted-foreground">Professional Web Designing Assessment</p>
         </div>
 
         {/* Test Information */}
